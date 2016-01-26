@@ -1,0 +1,9 @@
+    <sm:Screen Id="RP301000" Type="SimpleScreen" Icon="system://Ticket" DisplayName="Rental Items" Visible="true" >
+        <sm:Container Name="Items" FieldsToShow="1">
+            <sm:Field Name="Description" />
+            <sm:Field Name="Cost" />
+            <sm:Field Name="SerialNumber" />
+            <sm:Action Name="Save" Context="Record" Behavior="Save" />
+            <sm:Action Name="Cancel" Context="Record" Behavior="Cancel" />
+        </sm:Container>
+    </sm:Screen>  	

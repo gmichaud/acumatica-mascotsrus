@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <img src="/logo.png" width="500px"/>
+    <p class="lead">Welcome to our extranet!</p>
+    <p><a href="http://www.acumatica.com" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Adding a costume for rental</h2>
+        <p>
+            You may use this site to add a costume to our rental catalog.
+        </p>
+        <p>@Html.ActionLink("Click Here", "Index", "AddRentalItem", null, new { @class = "btn btn-default" })</p>
+    </div>
+</div>

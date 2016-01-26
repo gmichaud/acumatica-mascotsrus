@@ -1,0 +1,1 @@
+# acumatica-mascotsrus Mascots'R'Us demo, presented during the xRP Unleashed session at the Acumatica Partner Summit 2016

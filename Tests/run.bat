@@ -1,0 +1,1 @@
+C:\dev\TestSDK_5_30_0594_78\TestProject\TestProject.exe /run /libpath "C:\dev\acumatica-mascotsrus\Tests\bin\Debug\TestToolRental.dll" /config RentalTests.xml

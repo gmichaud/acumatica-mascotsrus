@@ -1,0 +1,15 @@
+-- DB
+USE RentalPro
+GO
+
+DROP TABLE RentalItem
+DROP TABLE Rental
+GO
+
+<Refer back to BobRentAll repo to see how it was done>
+-- Theme folder (+ theme selection)
+-- Site Map
+-- Imported Data
+-- Visual Studio Project: remove files and everything, just keep project empty
+-- Attribute on DACs for serial number (not required)
+-- Web Service Code in extranet
